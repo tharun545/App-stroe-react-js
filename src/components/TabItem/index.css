@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  border-width: 0px;
+  margin: 4px;
+  color: #7b8794;
+  background-color: transparent;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.tab-item-container {
+  list-style-type: none;
+}
